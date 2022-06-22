@@ -1,4 +1,4 @@
-# PHP-Combination-Generator
+# PHP Combination Generator
  Генератор комбинаций PHP
 
 # Использование:
